@@ -1,14 +1,3 @@
-"""Bounce, a simple animation demo.
-
-Exercises
-
-1. Make the ball speed up and down.
-2. Change how the ball bounces when it hits a wall.
-3. Make the ball leave a trail.
-4. Change the ball color based on position.
-   Hint: colormode(255); color(0, 100, 200)
-
-"""
 
 from random import *
 from turtle import *
